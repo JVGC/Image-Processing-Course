@@ -1,2 +1,3 @@
 # Image-Processing-Course
-Image Processing Course from University of São Paulo
+
+This repository refers to the codes done for the Image Processing Course (code: SCC0251). 
